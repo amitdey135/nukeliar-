@@ -34,4 +34,7 @@
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
-  
+
+
+
+  [Support server](https://discord.gg/pixop)
