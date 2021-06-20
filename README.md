@@ -38,3 +38,6 @@
 
 
   [Support server](https://discord.gg/pixop)
+
+
+Type token in dmass.py & nuke.py
