@@ -41,3 +41,6 @@
 
 
 Type token in dmass.py & nuke.py
+
+
+Moderation commands sooon
